@@ -1,7 +1,5 @@
 # FireballTv
 
-## What FireballTv?
-
 FireballTv is a `Electronic Sports Image&Text Live Telecast` platform.
 
 ## Why only image&text?
@@ -27,8 +25,6 @@ Here is the to-do list:
 3. Format more based on game characters.
 
 # 火球直播
-
-## 火球直播是个啥玩意儿？
 
 火球直播是一个主要以图文形式的面向电竞赛事的直播平台。
 
